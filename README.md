@@ -488,14 +488,21 @@ The next chapter: an **AI-first company in smart agriculture**. The mission is t
 <br/><br/>
 
 <!-- ══════════════════════════════════════ CONTRIBUTION JOURNEY ══ -->
+<!-- ══════════════════════════════════════ CONTRIBUTION JOURNEY ══ -->
 
 <div align="center">
 
-## 🐍 Contribution Journey
+## 📈 Contribution Journey
 
 <br/>
 
-![Snake animation](https://raw.githubusercontent.com/A-SUDHARSANAM/A-SUDHARSANAM/output/github-contribution-grid-snake-dark.svg)
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-SUDHARSANAM&theme=tokyonight"/>
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=A-SUDHARSANAM&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=A-SUDHARSANAM&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
 
