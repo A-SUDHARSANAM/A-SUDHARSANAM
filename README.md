@@ -14,11 +14,11 @@
 
 <!-- ═══════════════════════════════════════════ SOCIAL LINKS ══ -->
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudharsanam)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/A-SUDHARSANAM)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudharsanam-a--/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudharsanam483@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SUDHARSANAM_A/)
-[![Profile Views](https://komarev.com/ghpvc/?username=sudharsanam&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/sudharsanam)
+[![Profile Views](https://komarev.com/ghpvc/?username=A-SUDHARSANAM&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/A-SUDHARSANAM)
 
 </div>
 
@@ -357,7 +357,7 @@ Protects gig workers from fraudulent contracts using NLP-based risk pattern dete
 
 <br/>
 
-<!-- ══════════════════════════════════ GITHUB STATS ══ -->
+<!-- ══════════════════════════════════════ GITHUB STATS ══ -->
 
 <div align="center">
 
@@ -365,16 +365,37 @@ Protects gig workers from fraudulent contracts using NLP-based risk pattern dete
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sudharsanam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=a78bfa&icon_color=34d399&text_color=cbd5e1&bg_color=0d0221" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharsanam&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=cbd5e1&bg_color=0d0221&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=A-SUDHARSANAM&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=a78bfa&icon_color=34d399&text_color=cbd5e1&bg_color=0d0221" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-SUDHARSANAM&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=cbd5e1&bg_color=0d0221&langs_count=8" />
 
-<br/><br/>
+</div>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sudharsanam&theme=tokyonight&hide_border=true&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=ffffff&dates=64748b&background=0d0221&stroke=a78bfa"/>
+<br/>
 
-<br/><br/>
+<!-- ═══════════════════════════════════════ AURORA DIVIDER ══ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,20,24&height=3&section=header" width="100%"/>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sudharsanam&theme=tokyo-night&bg_color=0d0221&color=a78bfa&line=7c3aed&point=34d399&area=true&hide_border=true" />
+<br/>
+
+<!-- ══════════════════════════════════════ LIFETIME ANALYTICS ══ -->
+
+<div align="center">
+
+## 📈 Developer Analytics
+
+<br/>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-SUDHARSANAM&theme=tokyonight"/>
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A-SUDHARSANAM&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=A-SUDHARSANAM&theme=tokyonight"/>
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=A-SUDHARSANAM&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=A-SUDHARSANAM&theme=tokyonight"/>
 
 </div>
 
@@ -393,7 +414,7 @@ Protects gig workers from fraudulent contracts using NLP-based risk pattern dete
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=sudharsanam&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=A-SUDHARSANAM&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7" width="100%"/>
 
 </div>
 
@@ -457,7 +478,7 @@ The next chapter: an **AI-first company in smart agriculture**. The mission is t
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudharsanam)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/A-SUDHARSANAM)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudharsanam-a--/)
 [![Gmail](https://img.shields.io/badge/Email-Reach_Out-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudharsanam483@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Compete-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SUDHARSANAM_A/)
@@ -466,15 +487,15 @@ The next chapter: an **AI-first company in smart agriculture**. The mission is t
 
 <br/><br/>
 
-<!-- ══════════════════════════════════════ SNAKE ══ -->
+<!-- ══════════════════════════════════════ CONTRIBUTION JOURNEY ══ -->
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
+## 🐍 Contribution Journey
+
+<br/>
+
+![Snake animation](https://raw.githubusercontent.com/A-SUDHARSANAM/A-SUDHARSANAM/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
