@@ -693,9 +693,10 @@ NEXUS_OS$ git log --all --oneline --graph --developer=sudharsanam
 ║              NEXUS COMMUNICATION ARRAY — ONLINE                  ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
-║  📡 GITHUB    → github.com/sudharsanam         [BROADCASTING]   ║
-║  💼 LINKEDIN  → linkedin.com/in/sudharsanam    [CONNECTING]     ║
-║  📧 EMAIL     → sudharsanam@domain.com         [RECEIVING]      ║
+║  📡 GITHUB    → github.com/sudharsanam              [BROADCASTING]   ║
+║  💼 LINKEDIN  → linkedin.com/in/sudharsanam-a--/    [CONNECTING]     ║
+║  📧 EMAIL     → sudharsanam483@gmail.com             [RECEIVING]      ║
+║  ⚔ LEETCODE  → leetcode.com/u/SUDHARSANAM_A/        [COMPETING]      ║
 ║                                                                  ║
 ║  ╔══════════════════════════════════════════════════════════╗   ║
 ║  ║  "I build AI systems that solve real problems —          ║   ║
@@ -716,8 +717,9 @@ NEXUS_OS$ git log --all --oneline --graph --developer=sudharsanam
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00fff0)](https://github.com/sudharsanam)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00fff0)](https://linkedin.com/in/sudharsanam)
-[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00fff0)](mailto:sudharsanam@email.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00fff0)](https://www.linkedin.com/in/sudharsanam-a--/)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00fff0)](mailto:sudharsanam483@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=00fff0)](https://leetcode.com/u/SUDHARSANAM_A/)
 
 </div>
 
