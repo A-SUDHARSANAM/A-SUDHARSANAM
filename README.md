@@ -488,21 +488,20 @@ The next chapter: an **AI-first company in smart agriculture**. The mission is t
 <br/><br/>
 
 <!-- ══════════════════════════════════════ CONTRIBUTION JOURNEY ══ -->
-<!-- ══════════════════════════════════════ CONTRIBUTION JOURNEY ══ -->
+
 
 <div align="center">
-
-## 📈 Contribution Journey
-
 <br/>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-SUDHARSANAM&theme=tokyonight"/>
+<!-- CONTRIBUTION SNAKE — THE DIGITAL SERPENT -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+**IoT & Embedded**
 
-<br/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=A-SUDHARSANAM&theme=tokyonight"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=A-SUDHARSANAM&theme=tokyonight&utcOffset=5.5"/>
+![ESP32](https://img.shields.io/badge/ESP32-1a1a1a?style=flat-square&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-1a1a1a?style=flat-square&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-1a1a1a?style=flat-square&logo=arduino&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-1a1a1a?style=flat-square&logo=mqtt&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-1a1a1a?style=flat-square&logo=firebase&logoColor=white)
 
 </div>
 
