@@ -2,7 +2,7 @@
 
 <!-- ═══════════════════════════════════════════════ HERO ══ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Sudharsanam&fontSize=75&fontColor=FFFFFF&color=0:0d0221,50:130f40,100:0d0221&stroke=7c3aed&strokeWidth=2&desc=AI%20Systems%20Engineer%20%E2%80%A2%20IoT%20%E2%80%A2%20AgriTech%20%E2%80%A2%20Voice%20Agents%20%E2%80%A2%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=16&descAlignY=72&descColor=c4b5fd&animation=fadeIn&fontAlignY=42" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Sudharsanam A&fontSize=75&fontColor=FFFFFF&color=0:0d0221,50:130f40,100:0d0221&stroke=7c3aed&strokeWidth=2&desc=AI%20Systems%20Engineer%20%E2%80%A2%20IoT%20%E2%80%A2%20AgriTech%20%E2%80%A2%20Voice%20Agents%20%E2%80%A2%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=16&descAlignY=72&descColor=c4b5fd&animation=fadeIn&fontAlignY=42" width="100%"/>
 
 <!-- ═══════════════════════════════════════ PROFILE IMAGE ══ -->
 
